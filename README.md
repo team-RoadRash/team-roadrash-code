@@ -7,17 +7,23 @@
 
   The tiny car is equipped with ultrasonic sensors that override user input from the remote controller to prevent any collisions with hurdles in the way. A voice recoginition model has been implemented to 'Start'/'Stop' the car upon user input
 
-### Block Diagram:
+### Block Diagram
 
   ![image](https://user-images.githubusercontent.com/69215958/210123094-ac6a6594-15c6-492e-b96b-b2c41a364891.png)
 
-### Project Photos:
+### Project Photos
 
   ![Pic1](https://user-images.githubusercontent.com/69215958/210123125-798fe8d4-0ed8-4922-8915-580ccac80d7b.JPG)
 
   ![IMG20221205012711](https://user-images.githubusercontent.com/69215958/210123132-194e88f2-9542-4733-a2a4-5da9ffce3fec.jpg)
 
   ![newcar](https://user-images.githubusercontent.com/69215958/210123141-4adbfedc-7474-489e-868e-ec92534176dc.jpg)
+
+### Project Videos
+
+  https://user-images.githubusercontent.com/69215958/210124513-54895ac4-af76-40ae-9fe5-a206ea062ba5.mp4
+
+  https://user-images.githubusercontent.com/69215958/210124512-b3426251-2571-489c-952a-e152556ba938.mp4
 
 ### Men in Action!
 
