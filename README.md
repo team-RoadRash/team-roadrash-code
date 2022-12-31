@@ -3,15 +3,15 @@
 ### Team Members: Suraj S B Marthy (surajsbm@seas.upenn.edu) ; Sai Koushik S S (koushik@seas.upenn.edu)
 #### This repo contains the complete code for our project split into multiple sections based on the transmitting (remote controller) and receiving end (RC car) modules
 
-### Overview:
+### Overview
 
   The tiny car is equipped with ultrasonic sensors that override user input from the remote controller to prevent any collisions with hurdles in the way. A voice recoginition model has been implemented to 'Start'/'Stop' the car upon user input
 
-Block Diagram:
+### Block Diagram:
 
   ![image](https://user-images.githubusercontent.com/69215958/210123094-ac6a6594-15c6-492e-b96b-b2c41a364891.png)
 
-Project Photos:
+### Project Photos:
 
   ![Pic1](https://user-images.githubusercontent.com/69215958/210123125-798fe8d4-0ed8-4922-8915-580ccac80d7b.JPG)
 
@@ -19,7 +19,9 @@ Project Photos:
 
   ![newcar](https://user-images.githubusercontent.com/69215958/210123141-4adbfedc-7474-489e-868e-ec92534176dc.jpg)
 
-Men in Action!
+### Men in Action!
+
+  https://user-images.githubusercontent.com/69215958/210123426-d6fc1e26-dcb3-4fb2-b613-1b00cb5e1eb7.mp4
   
   https://user-images.githubusercontent.com/69215958/210123308-5197bce9-cb7d-4f70-beb2-75337e658886.mp4
 
